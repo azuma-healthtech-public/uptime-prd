@@ -25,7 +25,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.azuma-health.tech
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/azuma-healthtech/uptime-prd/master/assets/logo-1.svg
+  logoUrl: https://raw.githubusercontent.com/azuma-healthtech-public/uptime-prd/master/assets/logo-1.svg
   name: azuma status
   introTitle: "**azuma** status"
   introMessage: This is an overview page, which uses **real-time** data to display live service status, maintenance windows as well as active and past incidents.
