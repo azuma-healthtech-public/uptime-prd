@@ -60,12 +60,12 @@
     "slug": "azuma-doa-permissions-and-access-control",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "94.20%",
+    "uptimeDay": "95.80%",
     "uptimeWeek": "96.03%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "99.80%",
     "time": 5137,
-    "timeDay": 5653,
+    "timeDay": 5918,
     "timeWeek": 6964,
     "timeMonth": 6632,
     "timeYear": 5137,
@@ -142,12 +142,12 @@
     "url": "https://azuma-health.tech/health/doa-mailing",
     "icon": "https://icons.duckduckgo.com/ip3/azuma-health.tech.ico",
     "slug": "azuma-doa-mailing-service",
-    "status": "up",
-    "uptime": "98.55%",
+    "status": "down",
+    "uptime": "98.58%",
     "uptimeDay": "64.90%",
     "uptimeWeek": "76.14%",
-    "uptimeMonth": "89.52%",
-    "uptimeYear": "98.55%",
+    "uptimeMonth": "89.74%",
+    "uptimeYear": "98.58%",
     "time": 9244,
     "timeDay": 15035,
     "timeWeek": 14612,
@@ -171,7 +171,7 @@
       "2023-08-24": 205,
       "2023-08-23": 199,
       "2023-08-21": 238,
-      "2023-08-20": 126
+      "2023-08-20": 32
     }
   }
 ]
