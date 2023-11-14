@@ -40,9 +40,9 @@
     "url": "https://azuma-health.tech/health/mimoto-auth",
     "icon": "https://icons.duckduckgo.com/ip3/azuma-health.tech.ico",
     "slug": "azuma-mimoto-authorization-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 9225,
     "timeMonth": 4405,
     "timeYear": 4405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   },
   {
     "name": "azuma doa: Identity Service",
