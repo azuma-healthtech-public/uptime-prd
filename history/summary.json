@@ -40,19 +40,19 @@
     "url": "https://azuma-health.tech/health/mimoto-auth",
     "icon": "https://icons.duckduckgo.com/ip3/azuma-health.tech.ico",
     "slug": "azuma-mimoto-authorization-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4405,
-    "timeDay": 8909,
-    "timeWeek": 9225,
-    "timeMonth": 4405,
-    "timeYear": 4405,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 4653,
+    "timeDay": 8893,
+    "timeWeek": 9182,
+    "timeMonth": 4653,
+    "timeYear": 4653,
     "dailyMinutesDown": {
-      "2023-11-14": 0
+      "2023-11-14": 36
     }
   },
   {
