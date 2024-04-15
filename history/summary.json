@@ -4,19 +4,19 @@
     "url": "https://azuma-health.tech/health/doa-gateway",
     "icon": "https://icons.duckduckgo.com/ip3/azuma-health.tech.ico",
     "slug": "azuma-federated-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 4697,
-    "timeWeek": 1515,
-    "timeMonth": 681,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
+    "time": 479,
+    "timeDay": 3239,
+    "timeWeek": 1382,
+    "timeMonth": 670,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2024-04-15": 25
+      "2024-04-15": 67
     }
   },
   {
