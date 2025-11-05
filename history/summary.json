@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 766,
-    "timeDay": 751,
-    "timeWeek": 855,
-    "timeMonth": 742,
+    "time": 767,
+    "timeDay": 782,
+    "timeWeek": 861,
+    "timeMonth": 739,
     "timeYear": 777,
     "dailyMinutesDown": {
       "2025-03-07": 104
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 112,
-    "timeWeek": 129,
-    "timeMonth": 114,
-    "timeYear": 118,
+    "timeDay": 128,
+    "timeWeek": 135,
+    "timeMonth": 113,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2025-03-07": 54
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/azuma-health.tech.ico",
     "slug": "azuma-mimoto-authorization-service",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 129,
-    "timeDay": 122,
-    "timeWeek": 139,
-    "timeMonth": 122,
+    "timeDay": 135,
+    "timeWeek": 144,
+    "timeMonth": 121,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-03-07": 54
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 124,
-    "timeWeek": 141,
+    "timeDay": 136,
+    "timeWeek": 145,
     "timeMonth": 123,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 123,
-    "timeWeek": 139,
-    "timeMonth": 124,
+    "timeDay": 139,
+    "timeWeek": 144,
+    "timeMonth": 123,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -107,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 115,
-    "timeWeek": 131,
+    "timeDay": 130,
+    "timeWeek": 137,
     "timeMonth": 115,
     "timeYear": 120,
     "dailyMinutesDown": {}
@@ -125,8 +125,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 121,
-    "timeWeek": 141,
+    "timeDay": 137,
+    "timeWeek": 146,
     "timeMonth": 123,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -143,10 +143,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4172,
-    "timeDay": 119,
-    "timeWeek": 138,
-    "timeMonth": 123,
-    "timeYear": 4015,
+    "timeDay": 138,
+    "timeWeek": 143,
+    "timeMonth": 122,
+    "timeYear": 3997,
     "dailyMinutesDown": {}
   }
 ]
