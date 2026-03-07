@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 797,
-    "timeDay": 586,
-    "timeWeek": 877,
-    "timeMonth": 842,
-    "timeYear": 806,
-    "dailyMinutesDown": {
-      "2025-03-07": 104
-    }
+    "timeDay": 786,
+    "timeWeek": 831,
+    "timeMonth": 851,
+    "timeYear": 805,
+    "dailyMinutesDown": {}
   },
   {
     "name": "azuma: Zero Trust Gateway",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 119,
-    "timeDay": 107,
-    "timeWeek": 126,
-    "timeMonth": 123,
+    "timeDay": 136,
+    "timeWeek": 124,
+    "timeMonth": 125,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2025-03-07": 54
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "azuma mimoto: Authorization Service",
@@ -51,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 130,
-    "timeDay": 117,
-    "timeWeek": 139,
-    "timeMonth": 133,
-    "timeYear": 130,
-    "dailyMinutesDown": {
-      "2025-03-07": 54
-    }
+    "timeDay": 147,
+    "timeWeek": 137,
+    "timeMonth": 134,
+    "timeYear": 129,
+    "dailyMinutesDown": {}
   },
   {
     "name": "azuma doa: Identity Service",
@@ -71,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 123,
-    "timeWeek": 133,
-    "timeMonth": 131,
+    "timeDay": 140,
+    "timeWeek": 131,
+    "timeMonth": 133,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -89,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 116,
-    "timeWeek": 135,
-    "timeMonth": 131,
+    "timeDay": 142,
+    "timeWeek": 133,
+    "timeMonth": 132,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -107,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 108,
-    "timeWeek": 127,
-    "timeMonth": 125,
+    "timeDay": 137,
+    "timeWeek": 125,
+    "timeMonth": 126,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -125,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 114,
-    "timeWeek": 133,
-    "timeMonth": 132,
+    "timeDay": 143,
+    "timeWeek": 132,
+    "timeMonth": 133,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -142,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3142,
-    "timeDay": 114,
-    "timeWeek": 133,
-    "timeMonth": 130,
-    "timeYear": 1839,
+    "time": 3129,
+    "timeDay": 143,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 1822,
     "dailyMinutesDown": {}
   }
 ]
