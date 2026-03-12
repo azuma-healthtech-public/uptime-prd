@@ -4,28 +4,30 @@
     "url": "https://azuma-health.tech/health/doa-gateway",
     "icon": "https://icons.duckduckgo.com/ip3/azuma-health.tech.ico",
     "slug": "azuma-federated-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
+    "time": 796,
     "timeDay": 781,
     "timeWeek": 719,
     "timeMonth": 839,
     "timeYear": 804,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-12": 2
+    }
   },
   {
     "name": "azuma: Zero Trust Gateway",
     "url": "https://azuma-health.tech/health/gateway",
     "icon": "https://icons.duckduckgo.com/ip3/azuma-health.tech.ico",
     "slug": "azuma-zero-trust-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
@@ -33,17 +35,19 @@
     "timeWeek": 116,
     "timeMonth": 125,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-12": 2
+    }
   },
   {
     "name": "azuma mimoto: Authorization Service",
     "url": "https://azuma-health.tech/health/mimoto-auth",
     "icon": "https://icons.duckduckgo.com/ip3/azuma-health.tech.ico",
     "slug": "azuma-mimoto-authorization-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
@@ -51,16 +55,18 @@
     "timeWeek": 125,
     "timeMonth": 135,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-12": 1
+    }
   },
   {
     "name": "azuma doa: Identity Service",
     "url": "https://azuma-health.tech/health/doa-idp",
     "icon": "https://icons.duckduckgo.com/ip3/azuma-health.tech.ico",
     "slug": "azuma-doa-identity-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +75,9 @@
     "timeWeek": 124,
     "timeMonth": 134,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-12": 0
+    }
   },
   {
     "name": "azuma doa: OAuth 2.0 and OpenID Connect Provider",
