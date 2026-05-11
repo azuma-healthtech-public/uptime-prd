@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 804,
-    "timeDay": 833,
-    "timeWeek": 842,
-    "timeMonth": 819,
-    "timeYear": 811,
+    "timeDay": 960,
+    "timeWeek": 877,
+    "timeMonth": 825,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2026-03-12": 36
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 123,
-    "timeDay": 574,
-    "timeWeek": 394,
-    "timeMonth": 178,
-    "timeYear": 125,
+    "time": 125,
+    "timeDay": 927,
+    "timeWeek": 513,
+    "timeMonth": 206,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2026-03-12": 36
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 133,
-    "timeDay": 593,
-    "timeWeek": 403,
-    "timeMonth": 188,
-    "timeYear": 134,
+    "time": 135,
+    "timeDay": 891,
+    "timeWeek": 515,
+    "timeMonth": 215,
+    "timeYear": 136,
     "dailyMinutesDown": {
       "2026-03-12": 35
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 133,
-    "timeDay": 601,
-    "timeWeek": 404,
-    "timeMonth": 187,
-    "timeYear": 134,
+    "time": 134,
+    "timeDay": 773,
+    "timeWeek": 499,
+    "timeMonth": 209,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2026-03-12": 35
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 595,
-    "timeWeek": 400,
-    "timeMonth": 188,
-    "timeYear": 134,
+    "time": 134,
+    "timeDay": 835,
+    "timeWeek": 505,
+    "timeMonth": 213,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 603,
-    "timeWeek": 392,
-    "timeMonth": 179,
-    "timeYear": 126,
+    "time": 126,
+    "timeDay": 821,
+    "timeWeek": 495,
+    "timeMonth": 203,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   },
   {
@@ -126,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 583,
-    "timeWeek": 407,
-    "timeMonth": 190,
-    "timeYear": 134,
+    "time": 135,
+    "timeDay": 896,
+    "timeWeek": 521,
+    "timeMonth": 216,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   },
   {
@@ -139,16 +139,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/azuma-health.tech.ico",
     "slug": "azuma-doa-mailing-service",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2300,
-    "timeDay": 587,
-    "timeWeek": 405,
-    "timeMonth": 188,
-    "timeYear": 705,
+    "time": 2289,
+    "timeDay": 856,
+    "timeWeek": 513,
+    "timeMonth": 213,
+    "timeYear": 689,
     "dailyMinutesDown": {}
   }
 ]
